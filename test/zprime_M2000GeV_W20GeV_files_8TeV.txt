@@ -1,0 +1,2 @@
+/pnfs/cms/WAX/11/store/user/cmsdas/2014/TopXSecLongExercise/EDMNtuples/skhalil/ZprimeFiles/M2000GeV_W20GeV/shyftDump_ZPrimeToTTJets_M2000GeV_W20GeV_1_1_D6z.root
+/pnfs/cms/WAX/11/store/user/cmsdas/2014/TopXSecLongExercise/EDMNtuples/skhalil/ZprimeFiles/M2000GeV_W20GeV/shyftDump_ZPrimeToTTJets_M2000GeV_W20GeV_2_1_lgH.root

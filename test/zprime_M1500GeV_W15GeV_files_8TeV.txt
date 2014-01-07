@@ -1,0 +1,10 @@
+/pnfs/cms/WAX/11/store/user/cmsdas/2014/TopXSecLongExercise/EDMNtuples/skhalil/ZprimeFiles/M1500GeV_W15GeV/shyftDump_ZPrimeToTTJets_M1500GeV_W15GeV_1_1_1Ok.root
+/pnfs/cms/WAX/11/store/user/cmsdas/2014/TopXSecLongExercise/EDMNtuples/skhalil/ZprimeFiles/M1500GeV_W15GeV/shyftDump_ZPrimeToTTJets_M1500GeV_W15GeV_2_1_ERl.root
+/pnfs/cms/WAX/11/store/user/cmsdas/2014/TopXSecLongExercise/EDMNtuples/skhalil/ZprimeFiles/M1500GeV_W15GeV/shyftDump_ZPrimeToTTJets_M1500GeV_W15GeV_3_1_itb.root
+/pnfs/cms/WAX/11/store/user/cmsdas/2014/TopXSecLongExercise/EDMNtuples/skhalil/ZprimeFiles/M1500GeV_W15GeV/shyftDump_ZPrimeToTTJets_M1500GeV_W15GeV_4_1_uqx.root
+/pnfs/cms/WAX/11/store/user/cmsdas/2014/TopXSecLongExercise/EDMNtuples/skhalil/ZprimeFiles/M1500GeV_W15GeV/shyftDump_ZPrimeToTTJets_M1500GeV_W15GeV_5_1_cfs.root
+/pnfs/cms/WAX/11/store/user/cmsdas/2014/TopXSecLongExercise/EDMNtuples/skhalil/ZprimeFiles/M1500GeV_W15GeV/shyftDump_ZPrimeToTTJets_M1500GeV_W15GeV_6_1_cWR.root
+/pnfs/cms/WAX/11/store/user/cmsdas/2014/TopXSecLongExercise/EDMNtuples/skhalil/ZprimeFiles/M1500GeV_W15GeV/shyftDump_ZPrimeToTTJets_M1500GeV_W15GeV_7_1_Aqh.root
+/pnfs/cms/WAX/11/store/user/cmsdas/2014/TopXSecLongExercise/EDMNtuples/skhalil/ZprimeFiles/M1500GeV_W15GeV/shyftDump_ZPrimeToTTJets_M1500GeV_W15GeV_8_1_X0y.root
+/pnfs/cms/WAX/11/store/user/cmsdas/2014/TopXSecLongExercise/EDMNtuples/skhalil/ZprimeFiles/M1500GeV_W15GeV/shyftDump_ZPrimeToTTJets_M1500GeV_W15GeV_9_1_JfN.root
+/pnfs/cms/WAX/11/store/user/cmsdas/2014/TopXSecLongExercise/EDMNtuples/skhalil/ZprimeFiles/M1500GeV_W15GeV/shyftDump_ZPrimeToTTJets_M1500GeV_W15GeV_10_1_mOw.root
