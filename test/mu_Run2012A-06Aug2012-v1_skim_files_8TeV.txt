@@ -1,0 +1,2 @@
+/eos/uscms/store/user/cmsdas/2013/TopXSecLongExercise/EDMNtuples/skhalil/SingleMu/Data-Run2012A-06Aug2012-v1/7080dea0b2be3a0adb5bc6fa54bb531c/shyftDump_1_1_bFw.root
+/eos/uscms/store/user/cmsdas/2013/TopXSecLongExercise/EDMNtuples/skhalil/SingleMu/Data-Run2012A-06Aug2012-v1/7080dea0b2be3a0adb5bc6fa54bb531c/shyftDump_2_1_aK7.root

@@ -1,0 +1,14 @@
+/eos/uscms/store/user/cmsdas/2013/TopXSecLongExercise/EDMNtuples/skhalil/SingleMu/Data-Run2012A-13Jul2012-v1/7080dea0b2be3a0adb5bc6fa54bb531c/shyftDump_1_1_I8f.root
+/eos/uscms/store/user/cmsdas/2013/TopXSecLongExercise/EDMNtuples/skhalil/SingleMu/Data-Run2012A-13Jul2012-v1/7080dea0b2be3a0adb5bc6fa54bb531c/shyftDump_2_1_KQj.root
+/eos/uscms/store/user/cmsdas/2013/TopXSecLongExercise/EDMNtuples/skhalil/SingleMu/Data-Run2012A-13Jul2012-v1/7080dea0b2be3a0adb5bc6fa54bb531c/shyftDump_3_1_Xso.root
+/eos/uscms/store/user/cmsdas/2013/TopXSecLongExercise/EDMNtuples/skhalil/SingleMu/Data-Run2012A-13Jul2012-v1/7080dea0b2be3a0adb5bc6fa54bb531c/shyftDump_4_1_oCs.root
+/eos/uscms/store/user/cmsdas/2013/TopXSecLongExercise/EDMNtuples/skhalil/SingleMu/Data-Run2012A-13Jul2012-v1/7080dea0b2be3a0adb5bc6fa54bb531c/shyftDump_5_1_xdT.root
+/eos/uscms/store/user/cmsdas/2013/TopXSecLongExercise/EDMNtuples/skhalil/SingleMu/Data-Run2012A-13Jul2012-v1/7080dea0b2be3a0adb5bc6fa54bb531c/shyftDump_6_1_ojZ.root
+/eos/uscms/store/user/cmsdas/2013/TopXSecLongExercise/EDMNtuples/skhalil/SingleMu/Data-Run2012A-13Jul2012-v1/7080dea0b2be3a0adb5bc6fa54bb531c/shyftDump_7_1_OkT.root
+/eos/uscms/store/user/cmsdas/2013/TopXSecLongExercise/EDMNtuples/skhalil/SingleMu/Data-Run2012A-13Jul2012-v1/7080dea0b2be3a0adb5bc6fa54bb531c/shyftDump_8_1_uAM.root
+/eos/uscms/store/user/cmsdas/2013/TopXSecLongExercise/EDMNtuples/skhalil/SingleMu/Data-Run2012A-13Jul2012-v1/7080dea0b2be3a0adb5bc6fa54bb531c/shyftDump_9_1_9Vt.root
+/eos/uscms/store/user/cmsdas/2013/TopXSecLongExercise/EDMNtuples/skhalil/SingleMu/Data-Run2012A-13Jul2012-v1/7080dea0b2be3a0adb5bc6fa54bb531c/shyftDump_10_1_Rul.root
+/eos/uscms/store/user/cmsdas/2013/TopXSecLongExercise/EDMNtuples/skhalil/SingleMu/Data-Run2012A-13Jul2012-v1/7080dea0b2be3a0adb5bc6fa54bb531c/shyftDump_11_1_3qn.root
+/eos/uscms/store/user/cmsdas/2013/TopXSecLongExercise/EDMNtuples/skhalil/SingleMu/Data-Run2012A-13Jul2012-v1/7080dea0b2be3a0adb5bc6fa54bb531c/shyftDump_12_1_DAs.root
+/eos/uscms/store/user/cmsdas/2013/TopXSecLongExercise/EDMNtuples/skhalil/SingleMu/Data-Run2012A-13Jul2012-v1/7080dea0b2be3a0adb5bc6fa54bb531c/shyftDump_13_1_e0V.root
+/eos/uscms/store/user/cmsdas/2013/TopXSecLongExercise/EDMNtuples/skhalil/SingleMu/Data-Run2012A-13Jul2012-v1/7080dea0b2be3a0adb5bc6fa54bb531c/shyftDump_14_1_3ST.root
